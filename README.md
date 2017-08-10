@@ -1,24 +1,13 @@
-# README
+Solo_rails!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Description
 
-Things you may want to cover:
+This project was mostly for fun. It has basic bycrpt log ins and sign ups, picture uploading, sign ups and minor bootstrap styling. 
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
 
-* Database creation
+Resources
 
-* Database initialization
+Trello Devise PaperClip Bootstrap Technology Used
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
